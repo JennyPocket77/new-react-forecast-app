@@ -1,4 +1,4 @@
-.Weather {
+.Weather body {
     border: 1px solid #dadde1;
     border-radius: 4px;
     color: rgb(135, 135, 135);
@@ -49,3 +49,4 @@
     top: -34px;
     line-height: 1;
 }
+
