@@ -7,7 +7,7 @@ export default function App() {
     <div className="App">
       <div className="container">
 
-<Weather />
+<Weather defaultCity="New York" />
 
  <footer>This project was coded by <a href="https://objective-cori-203d1a.netlify.app/index.html" target="_blank" rel="noreferrer">
  Jennifer Ann Gonzalez</a> and is <a href="https://github.com/JennyPocket77/new-react-forecast-app" target="_blank" rel="noreferrer">open-sourced on GitHub
